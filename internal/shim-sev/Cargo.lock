@@ -84,9 +84,9 @@ dependencies = [
 
 [[package]]
 name = "compiler_builtins"
-version = "0.1.70"
+version = "0.1.81"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "80873f979f0a344a4ade87c2f70d9ccf5720b83b10c97ec7cd745895d021e85a"
+checksum = "7927b44b9659f9a9af77eb0e6d98d8172ee5aec6924ed9360ae527cdd8551245"
 
 [[package]]
 name = "const-default"
